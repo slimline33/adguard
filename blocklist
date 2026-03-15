@@ -1,4 +1,34 @@
-# Adobe - komplett gesperrt
+# ============================================================
+# bimmi personal blocklist
+# https://github.com/slimline33/adguard/blob/main/blocklist
+# ============================================================
+
+# === SolidWorks / Dassault Systemes ===
+||solidworks.com^
+||3ds.com^
+||3dswym.com^
+||3dexperience.com^
+||3dvia.com^
+||3dplm.com^
+||catia.com^
+||enovia.com^
+||delmia.com^
+||simulia.com^
+||exalead.com^
+||netvibes.com^
+||medidata.com^
+||nalpeiron.com^
+||geovia.com^
+||biovia.com^
+||centric-plm.com^
+||quintiq.com^
+||3ds-outscale.com^
+||outscale.com^
+||3dpassport.com^
+||3dnotebook.com^
+||3dswym.3dexperience.3ds.com^
+
+# === Adobe ===
 ||adobe.com^
 ||adobe.io^
 ||adobe.net^
@@ -21,7 +51,6 @@
 ||omtrdc.net^
 ||omniture.com^
 ||demdex.net^
-||adobedc.net^
 ||2o7.net^
 ||macromedia.com^
 ||behance.net^
@@ -32,23 +61,18 @@
 ||echosign.com^
 ||echocdn.com^
 ||acrobat.com^
+||adobeaemcloud.com^
+||adobeaemcloud.net^
+||adobestockphotos.com^
+||fotolia.com^
+||frameio.com^
+||substance3d.com^
 
-# SolidWorks / Dassault Systemes - komplett gesperrt
-||solidworks.com^
-||3ds.com^
-||3dswym.com^
-||3dexperience.com^
-||3dvia.com^
-||3dplm.com^
-||catia.com^
-||enovia.com^
-||delmia.com^
-||simulia.com^
-||exalead.com^
-||netvibes.com^
-||medidata.com^
-||nalpeiron.com^
-||geovia.com^
-||biovia.com^
-||centric-plm.com^
-||quintiq.com^
+# === TechSmith (Camtasia / Snagit) ===
+||techsmith.com^
+
+# === Obico (3D Print Monitoring) ===
+||app.obico.io^
+
+# === Nalpeiron (Lizenz-Telemetrie) ===
+# bereits oben unter Dassault
